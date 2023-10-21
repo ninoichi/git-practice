@@ -1,4 +1,6 @@
 # git-practice
 
 このリポジトリは Git 動画講座用です．  
-no-fast-forward で修正
+conflict で修正(conflict here)
+
+コンフリクトしない修正
