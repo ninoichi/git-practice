@@ -4,4 +4,4 @@
 conflict で修正(conflict here)
 
 コンフリクトしない修正
-puu-conflict 上で更新
+pull-conflict 上で更新
