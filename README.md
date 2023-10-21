@@ -4,4 +4,4 @@
 conflict で修正(conflict here)
 
 コンフリクトしない修正
-github上で更新
+puu-conflict 上で更新
