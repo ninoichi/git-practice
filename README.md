@@ -3,5 +3,5 @@
 このリポジトリは Git 動画講座用です．  
 conflict で修正(conflict here)
 
-コンフリクトしない修正
-github上で更新
+コンフリクトしない修正  
+github上で更新2回目
